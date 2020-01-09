@@ -15,7 +15,7 @@
   "homepage": "https://github.com/aMarCruz/react-native-shortcut-badge",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aMarCruz/react-native-shortcut-badge.git"
+    "url": "git+https://github.com/vuongductuanktmt/react-native-shortcut-badge.git"
   },
   "bugs": {
     "url": "https://github.com/aMarCruz/react-native-shortcut-badge/issues"
@@ -23,5 +23,7 @@
   "peerDependencies": {
     "react-native": ">=0.50.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@react-native-community/push-notification-ios": "^1.0.3"
+  }
 }
